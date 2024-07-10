@@ -1,0 +1,10 @@
+Medicamento 1:
+Nombre: Ibuprofeno
+Cantidad: 543
+Precio unitario: 0.24
+Porcentaje Descuento: 0.00
+Medicamento 2:
+Nombre: Paracetamol
+Cantidad: 123
+Precio unitario: 0.14
+Porcentaje Descuento: 13.00
